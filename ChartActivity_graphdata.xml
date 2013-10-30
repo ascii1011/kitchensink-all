@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<root>
+   <charttype>bvs</charttype>
+   <resolution>280x120</resolution>
+   <data>t:10,50,20,15,5</data>
+   <tags>Hello|hell|World|ape|human</tags>
+</root>
